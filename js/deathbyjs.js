@@ -55,10 +55,18 @@ console.log(generateId(8));
  */
 
 //STEP 5
-function Longest_Country_Name(arr){
-    let londestCountry = '';
+// function Longest_Country_Name(arr){
+//     var lngth = 0;
+//     var londestCountry;
+      
+//       for (var i = 0; i < arr.length; i++) {
+//         if (arr[i].length > lngth) {
+//           var lngth = arr[i].length;
+//           londestCountry = arr[i];
+//         }
+//       }
+//     return londestCountry
+// }
 
+// console.log(Longest_Country_Name(["Australia", "Germany", "United States of America"]))
 
-}
-
-console.log(Longest_Country_Name(["Australia", "Germany", "United States of America"]))
